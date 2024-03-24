@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn1{
+    font-size: x-small;
+    background-color: hsl(0, 80%, 50%);
+    margin-top: 2;
+    margin-bottom: 2;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    text-decoration: none;
+    border: none;
+    transition: 0.5s;
+    margin-top: 3px;
+}
+.btn1:hover{
+   background-color:violet;
+    box-shadow: 0px 10px 0px 10px #0000ff99;
+}
